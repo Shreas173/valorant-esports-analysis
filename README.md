@@ -113,7 +113,7 @@ This work contributes to:
 
 ## Author
 
-**Shreas Arion - BRAC University** - Data Science & Esports Analytics Research
+**Shreas Arion - BRAC University**
 
 ## License
 
