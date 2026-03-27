@@ -1,0 +1,51 @@
+Input rows: 702367 columns: 30
+
+-- Columns --
+player_id
+player
+org
+agents
+rounds_played
+rating
+average_combat_score
+kill_deaths
+kill_assists_survived_traded
+average_damage_per_round
+kills_per_round
+assists_per_round
+first_kills_per_round
+first_deaths_per_round
+headshot_percentage
+clutch_success_percentage
+clutches_won_played_ratio
+max_kills_in_single_map
+kills
+deaths
+assists
+first_kills
+first_deaths
+event_id
+region
+map
+agent
+snapshot_date
+clutches_won
+clutches_played
+
+Saved column_summary.csv
+
+Saved numeric_summary.csv
+
+Saved missing_percent_by_column.png
+
+Saved top_agents.csv and top_agents.png
+
+Saved top_orgs.csv and top_orgs.png
+
+Saved distribution plots for: rating,average_combat_score,average_damage_per_round,kills_per_round,headshot_percentage,rounds_played
+
+Saved correlation_matrix.csv and correlation_matrix.png
+
+Saved pairplot.png
+
+Saved sample_head100.csv
